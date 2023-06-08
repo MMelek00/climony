@@ -37,8 +37,6 @@
 
 #### 2.3 **"Article Slides (1)" Screen:**
 
-Those are bonus screens. If you feel like it, you can present us your implementation for the bonus screens. It is not required.
-
 - Both screens contain a top bar that is colored in the category highlight color and contains an icon, category title and a back button. By pressing on the back button, the user gets to the "Category Overview (2)" Screen.
 - Both screens contain a pagination indication that adjusts automatically.
 - The "Article Slides (1)" screen contains an image (please use a placeholder image if API is not responding it), a title, a reading time indication, a date and a description.
