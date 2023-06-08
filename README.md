@@ -4,7 +4,7 @@
 
 <p float="Left">
     <img src="assets/iosScreenShot.png" width="1000" title="Gallery">
-    <img src="assets/assets/androidScreenShot.png" width="1000" title="Gallery">
+    <img src="assets/androidScreenShot.png" width="1000" title="Gallery">
 </p>
 ## Main technologies used
 
